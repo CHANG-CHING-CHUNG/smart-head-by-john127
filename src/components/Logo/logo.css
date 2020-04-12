@@ -1,0 +1,8 @@
+.Tilt {
+  background: rgba(0, 0, 0, 0) linear-gradient(to right, rgba(246, 246, 236, 0.88), rgba(53, 61, 255, 0.92)) repeat scroll 0% 0%;
+}
+
+#logo {
+  height: auto;
+  width: 100px;
+}
